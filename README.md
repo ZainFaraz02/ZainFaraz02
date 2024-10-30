@@ -12,7 +12,7 @@ Passion for Modern Technologies: Enthusiastic about leveraging the latest tools 
 
 
 Web Development:
-html5 css3 javascript typescript angular react bootstrap sass tailwind 
+[html5](https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667) css3 javascript typescript angular react bootstrap sass tailwind 
 nodejs express dbeaver docker xcode azure android
 
 Cross-platform App Development:
