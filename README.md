@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hello, I'm Zain Faraz — an experienced Angular and Android Developer passionate about building dynamic, scalable applications. I specialize in developing responsive, user-friendly interfaces using modern front-end tools like Angular and Ionic, seamlessly integrating back-end APIs for a robust full-stack experience.<br><br>💼 Skills:<br><br>Angular, Ionic, TypeScript<br>RESTful APIs, RxJS, Angular Material<br>HTML5, CSS3, SCSS<br>PostgreSql, Dbeaver, Node.js, Express<br>🚀 What I Do:<br><br>Develop performant, user-friendly applications with Angular and Ionic.<br>Implement state management with  RxJS.<br>Collaborate in Agile teams and contribute to open-source projects.<br>🔧 Tools I Use:<br><br>Visual Studio Code, Git, Postman, Docker<br>Figma, Xcode, Azure, Android Studio
+👋 I'm Zain Faraz — a Full-Stack Software Engineer and Mobile App Developer with 3+ years of experience building scalable web and mobile applications using the MEAN stack and modern TypeScript-based tooling.
+ 
+My core stack includes TypeScript, Angular, Node.js, Express.js, and PostgreSQL — covering everything from responsive, user-friendly frontends to reliable, well-structured backend services. Beyond the web, I build cross-platform mobile applications using Ionic and Angular, shipping production-ready apps across industries like healthcare, hospitality, and agriculture.
+ 
+I care about writing clean, purposeful code — not just code that works, but code that's easy to read, extend, and hand off. Every layer of the stack gets the same attention to craft.
+ 
+Outside of my primary stack, I'm actively exploring AI-integrated engineering — looking for ways to build smarter, more adaptive digital products.
+ 
+I enjoy close collaboration with clients and teams, translating ideas into working software with clear communication and minimal back-and-forth.
+ 
+If you're working on something ambitious and need a developer who's equally comfortable on the frontend, backend, and mobile — let's connect.<br><br>💼 Skills:<br><br>Angular, Ionic, TypeScript<br>RESTful APIs, RxJS, Angular Material<br>HTML5, CSS3, SCSS<br>PostgreSql, Dbeaver, Node.js, Express<br>🚀 What I Do:<br><br>Develop performant, user-friendly applications with Angular and Ionic.<br>Implement state management with  RxJS.<br>Collaborate in Agile teams and contribute to open-source projects.<br>🔧 Tools I Use:<br><br>Visual Studio Code, Git, Postman, Docker<br>Figma, Xcode, Azure, Android Studio
 
 
 ## 🌐 Socials:
